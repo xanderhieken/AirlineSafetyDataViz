@@ -33,7 +33,7 @@ Additionally, I was required to use one supplemental dataset for my visualizatio
 
 [**Infographic**](https://xanderhieken.github.io/assets/AirlineSafetyInfographic.pdf)
 
-*The Tableau workbook used to create the graphics is located in the GitHub repository as `AirlineSafetyGraphics.twb`
+*The Tableau workbook used to create the graphics is located in the GitHub repository as* `AirlineSafetyGraphics.twb`
 	
 ## Author
 
